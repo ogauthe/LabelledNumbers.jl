@@ -12,7 +12,7 @@
 ```julia
 julia> using Pkg: Pkg
 
-julia> Pkg.add("https://github.com/ITensor/LabelledNumbers.jl")
+julia> Pkg.add(url="https://github.com/ITensor/LabelledNumbers.jl")
 ```
 
 ## Examples
